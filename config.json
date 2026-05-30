@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "carterocess",
+        "uuid": 7522719,
+        "checksum": "xvs8l"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": false,
+        "mode": "production"
+    }
+}
